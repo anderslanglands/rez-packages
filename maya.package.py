@@ -1,5 +1,5 @@
 name='maya'
-version='2020pr102'
+version='2020pr104'
 
 def commands():
     env.MAYA_LOCATION='/usr/autodesk/maya2020'
